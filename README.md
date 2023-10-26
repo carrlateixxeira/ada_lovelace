@@ -8,8 +8,7 @@
 
   A minha escolhida foi a Ada Lovelace.
 
-  [Site Ada Lovelace](https://carrlateixxeira.github.io/ada_lovelace/)
-  
+
   
 
  
