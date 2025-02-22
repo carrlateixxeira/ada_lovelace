@@ -1,15 +1,18 @@
-  # Projeto Final do curso PACTO DAS PRETAS: Programação Web para Iniciantes
+# 🌍 Sobre o Projeto
 
-  Site desenvolvido como projeto final do curso Desenvolvimento Web para Iniciantes, onde coloquei foi colocado em prática o conteúdo do curso.
+Projeto final do curso **Pacto das Pretas: Programação Web para Iniciantes**, onde foram aplicados os conhecimentos adquiridos ao longo do curso.  
 
-  HTML, CSS, JavaScript, Git, Github.
+O objetivo do projeto era desenvolver um site sobre uma **mulher importante na história da tecnologia**. Minha escolhida foi **Ada Lovelace**, considerada a primeira programadora da história.  
 
-  Para desenvolver esse site, tinhamos que escolher como tema, alguma mulher que foi ou é importante para tecnologia.
+## 🚀 Tecnologias Utilizadas
 
-  A minha escolhida foi a Ada Lovelace.
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+- **HTML5**  
+- **CSS**  
+- **JavaScript**  
+- **Git e GitHub**  
 
-  
+## 🎯 Objetivo do Projeto  
 
- 
-  
+Este site foi criado para **homenagear Ada Lovelace**, destacando sua importância na tecnologia e suas contribuições para a computação. A proposta foi trabalhar **HTML, CSS e JavaScript** para criar um site informativo e responsivo.  
